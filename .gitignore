@@ -2,3 +2,4 @@ sendgrid.env
 __pycache__
 venv
 .idea
+app.db
